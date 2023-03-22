@@ -1,2 +1,2 @@
-# git_tst
+# Просто тестовый репозиторий для уроков Git
 Test repository
